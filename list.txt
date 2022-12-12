@@ -1,0 +1,66 @@
+1)Linear Search
+=>Complexity
+=>Code
+=>Sentinel value
+
+2)Binary Search
+=>Complexity
+=>Code
+=>Recursive
+=>Iterative
+
+3)Hashing
+=>Truncation
+=>Midsquare
+=>Shift folding
+=>Boundary Folding/Boundary Shifting
+=>Division Method/Modulo-Division
+
+4)Collision resolution techniques
+=>a)Open Addressing/Closed Hashing
+=>Linear Probing
+=>Quadractic Probing
+=>Double Hashing
+b)Seperate chaining/Open Hashing
+=>Separate chaining
+=>Bucket Hashing
+
+5)Sorting Definations
+-Internal Sorting and External Sorting  
+-Sort stability(Stable and unstable)
+-Indirect sort or sort by adress()
+-Direct sort
+-Inplace sort
+-Sort pass
+-Sorting Efficiency
+=>Coding time
+=>Space taken
+=>Time taken/Runtime (Most important)
+
+6)Selection sort(Not data sensitive)
+=>Code
+=>Demonstration
+=>Analysis
+
+7)Bubble sort
+=>Code
+=>Demonstrations
+=>Analysis
+
+7)Insertion sort
+=>Code
+=>Demonstrations
+=>Analysis
+
+8)Shell sort
+=>Code
+=>Demonstrations
+=>Analysis
+
+9)Merge sort
+=>Recursive
+=>Iterative(TBD)
+
+10)Heap sort
+
+11)Radix sort
